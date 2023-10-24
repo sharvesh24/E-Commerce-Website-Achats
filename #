@@ -1,12 +1,14 @@
 Instruction Manual
 
-This is a prototype of an e-commerce website done using Python. 
+There are 2 branches in this repository: main and Imgs.
+The project Images alone can be viewed in the Imgs branch. 
+In the main branch, the source code, exe file is given.
+
+This project is a prototype of an e-commerce website done using Python. 
 The images used in this project is atached in this repository.
 Open the Achats_Program file to view the source code. 
 The executable file of the program is attached in the repository as Achats_exe.
 While running the exe file, do tick the checkbox in your bottom left corner. 
 During billing, enter 16-digit card number and 3-digit cvv along with your First Name.
-
-The project Images can be viewed in the Imgs branch. 
 
 This project was done using PyCharm Community Edition 2022.2.4
