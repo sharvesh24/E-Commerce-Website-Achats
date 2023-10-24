@@ -7,4 +7,6 @@ The executable file of the program is attached in the repository as Achats_exe.
 While running the exe file, do tick the checkbox in your bottom left corner. 
 During billing, enter 16-digit card number and 3-digit cvv along with your First Name.
 
+The project Images can be viewed in the Imgs branch. 
+
 This project was done using PyCharm Community Edition 2022.2.4
